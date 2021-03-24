@@ -13,11 +13,11 @@
   },
   "keywords": [],
   "author": "Volodymyr Viter <mad.tvido@gmail.com>",
-  "license": "",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tvido/issues"
+    "url": "https://github.com/Tvido/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://github.com/Tvido/goit-js-hw-10-food-service#readme",
+  "homepage": "https://github.com/Tvido/goit-js-hw-10-food-service",
   "dependencies": {
     "gallery": "^1.0.2",
     "handlebars": "^4.7.7",
