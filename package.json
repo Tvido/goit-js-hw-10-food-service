@@ -1,7 +1,7 @@
 {
   "name": "parcel-deploy",
   "version": "1.0.0",
-  "description": "",
+  "description": "goit-js-hw-10-food-service",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
